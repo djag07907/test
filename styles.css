@@ -1,3 +1,7 @@
 /* STYLESHEET PARA LOGIN */
 
-/* hahahahaha */
+
+.container {
+    max-height:100px;
+    max-width: 100%;
+}
